@@ -10,3 +10,16 @@ If done properly, Crustacenas could minimize overhead cost and maximise the prof
 This is a regression model problem and Ive used several Machine Learning Algorithm to get the best result after removing the outliers and hypertuning the models.
 
 Ive gone ahead and created my first presentation in Tableu along with my findings and conclusions.
+
+
+Project Flow
+
+Import relevant libraries and dataset
+Feature Engineering
+Exploratory Data Analysis
+Topic Classification - Model Training
+
+
+Dataset derived from Kaggle
+Topic Prediction - Gradient Boosting
+Dashboard - Tableau
