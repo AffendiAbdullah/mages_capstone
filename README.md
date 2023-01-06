@@ -1,4 +1,4 @@
-# mages_capstone
+# Mages Capstone
 This is the final capstone project the was done during my time with Mages
 
 The aim of this project is to predict the age of these mud crab based on the features in the data frame and provide the best possible time to harvest them.
